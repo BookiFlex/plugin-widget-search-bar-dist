@@ -1,1 +1,1 @@
-dev build from e1d3f2a34a4f9d0a390ca3c5887235213da8a596
+dev build from: https://cdn.jsdelivr.net/gh/BookiFlex/plugin-widget-search-bar@dev-v0.9.4/dist/index.umd.js
